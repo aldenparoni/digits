@@ -15,7 +15,7 @@
 body {
   --bs-dark: var(--matr-navbar-bg);
   --bs-dark-rgb: var(--matr-navbar-bg-rgb);
-  background: fixed center url("images/light-background.jpg");
+  background: fixed center url("images/pinkish-background.jpg");
   background-size: cover;
 }
 
